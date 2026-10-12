@@ -8,4 +8,4 @@ Identitas:
 Catatan: Buat kerangka proyek Flutter lengkap pada komputer dengan menjalankan:
 `flutter create hello_world`
 Lalu salin file `lib/main.dart` dari folder ini ke proyek yang dibuat. Jalankan `flutter pub get`,
-`flutter doctor`, dan `flutter run -d chrome` (jika Chrome tersedia).
+`flutter doctor`, dan `flutter run -d chrome`.
